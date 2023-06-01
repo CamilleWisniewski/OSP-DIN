@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcircumflexbelow" format="1">
+  <advance width="432"/>
+  <unicode hex="1E71"/>
+  <outline>
+    <component base="t"/>
+    <component base="circumflexcomb" xOffset="-52" yOffset="-1534"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-17 09:51:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

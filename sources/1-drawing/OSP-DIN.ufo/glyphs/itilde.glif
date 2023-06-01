@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="1">
+  <advance width="693"/>
+  <unicode hex="0129"/>
+  <outline>
+    <component base="tildecomb" xOffset="46" yOffset="-141"/>
+    <component base="idotless" xOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1004</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1229</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1591</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1640</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>86</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>217</integer>
+            <key>width</key>
+            <integer>522</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 11:19:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

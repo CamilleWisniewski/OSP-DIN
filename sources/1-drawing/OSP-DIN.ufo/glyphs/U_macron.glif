@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="811"/>
+  <unicode hex="016A"/>
+  <outline>
+    <component base="U"/>
+    <component base="macroncomb" xOffset="117" yOffset="268"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 11:47:42 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

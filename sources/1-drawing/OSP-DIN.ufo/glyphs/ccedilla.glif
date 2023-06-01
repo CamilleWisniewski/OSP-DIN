@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="1">
+  <advance width="733"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="81" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-224</integer>
+            <key>width</key>
+            <integer>238</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>819</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>82</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>131</integer>
+            <key>width</key>
+            <integer>364</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>492</integer>
+            <key>width</key>
+            <integer>204</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedilla</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 08:57:34 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>c</string>
+    </dict>
+  </lib>
+</glyph>

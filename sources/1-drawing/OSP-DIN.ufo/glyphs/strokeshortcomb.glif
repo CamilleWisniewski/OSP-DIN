@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="1">
+  <advance width="572"/>
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="40" y="729" type="line"/>
+      <point x="532" y="729" type="line"/>
+      <point x="532" y="565" type="line"/>
+      <point x="40" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 08:43:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

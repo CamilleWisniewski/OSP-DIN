@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="901"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="-1" y="1" type="line"/>
+      <point x="614" y="1" type="line"/>
+      <point x="614" y="155" type="line"/>
+      <point x="609.111" y="155.889"/>
+      <point x="591.63" y="156.333"/>
+      <point x="561.556" y="156.333" type="curve"/>
+      <point x="561.556" y="156.333"/>
+      <point x="409" y="155"/>
+      <point x="409" y="155" type="curve"/>
+      <point x="-1" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="742" type="line"/>
+      <point x="437" y="313" type="line"/>
+      <point x="437" y="529" type="line"/>
+      <point x="223" y="742" type="line"/>
+      <point x="437" y="954" type="line"/>
+      <point x="437" y="1171" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-05-30 09:21:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

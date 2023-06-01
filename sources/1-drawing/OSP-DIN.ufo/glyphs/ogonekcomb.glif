@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="1">
+  <advance width="365"/>
+  <unicode hex="0328"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="curve"/>
+      <point x="268" y="0" type="line"/>
+      <point x="213" y="-40"/>
+      <point x="224" y="-135"/>
+      <point x="325" y="-115" type="curve"/>
+      <point x="325" y="-290" type="line"/>
+      <point x="48" y="-336"/>
+      <point x="2" y="-116"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 10:31:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

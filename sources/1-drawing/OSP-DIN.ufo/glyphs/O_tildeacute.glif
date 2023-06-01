@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otildeacute" format="1">
+  <advance width="786"/>
+  <unicode hex="1E4C"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="77" yOffset="229"/>
+    <component base="acutecomb" xOffset="190" yOffset="508"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 15:16:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

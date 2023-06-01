@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="1">
+  <advance width="258"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="40" y="1369" type="line"/>
+      <point x="218" y="1370" type="line"/>
+      <point x="218" y="1165" type="line"/>
+      <point x="40" y="959" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 11:14:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

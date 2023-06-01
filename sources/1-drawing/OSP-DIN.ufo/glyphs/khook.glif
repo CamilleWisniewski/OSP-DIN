@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khook" format="1">
+  <advance width="686"/>
+  <unicode hex="0199"/>
+  <outline>
+    <contour>
+      <point x="291" y="903" type="line"/>
+      <point x="86" y="903" type="line"/>
+      <point x="86" y="1127" type="line" smooth="yes"/>
+      <point x="86" y="1212"/>
+      <point x="116" y="1284"/>
+      <point x="176" y="1344" type="curve" smooth="yes"/>
+      <point x="236" y="1404"/>
+      <point x="308" y="1434"/>
+      <point x="393" y="1434" type="curve"/>
+      <point x="393" y="1229" type="line"/>
+      <point x="364" y="1229"/>
+      <point x="340" y="1219"/>
+      <point x="320" y="1200" type="curve" smooth="yes"/>
+      <point x="301" y="1180"/>
+      <point x="291" y="1156"/>
+      <point x="291" y="1127" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="86" y="1034" type="line"/>
+      <point x="291" y="1034" type="line"/>
+      <point x="291" y="614" type="line"/>
+      <point x="496" y="1024" type="line"/>
+      <point x="700" y="1024" type="line"/>
+      <point x="496" y="614" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="373" y="369" type="line"/>
+      <point x="291" y="205" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="86" y="205" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 16:07:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

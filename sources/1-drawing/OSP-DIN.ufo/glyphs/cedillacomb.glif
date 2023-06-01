@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="1">
+  <advance width="444"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="404" y="14" type="line"/>
+      <point x="201" y="-224" type="line"/>
+      <point x="40" y="-224" type="line"/>
+      <point x="210" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 09:22:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

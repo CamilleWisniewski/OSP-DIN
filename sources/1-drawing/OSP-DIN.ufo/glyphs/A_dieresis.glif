@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="825"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="311" y="1434" type="line"/>
+      <point x="514" y="1434" type="line"/>
+      <point x="821" y="0" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="557" y="307" type="line"/>
+      <point x="268" y="309" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="4" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="1024" type="line"/>
+      <point x="309" y="510" type="line"/>
+      <point x="516" y="510" type="line"/>
+      <point x="414" y="1024" type="line"/>
+    </contour>
+    <component base="dieresiscomb" xOffset="70" yOffset="309"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>309</integer>
+            <key>width</key>
+            <integer>201</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1414</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1641</integer>
+            <key>width</key>
+            <integer>203</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>109</integer>
+            <key>width</key>
+            <integer>202</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>518</integer>
+            <key>width</key>
+            <integer>203</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 14:20:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

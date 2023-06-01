@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresiscaron" format="1">
+  <advance width="811"/>
+  <unicode hex="01D9"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb" xOffset="59" yOffset="259"/>
+    <component base="caroncomb" xOffset="82" yOffset="528"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 12:47:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

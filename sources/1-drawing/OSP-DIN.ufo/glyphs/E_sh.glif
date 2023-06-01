@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Esh" format="1">
+  <advance width="749"/>
+  <unicode hex="01A9"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="205" type="line"/>
+      <point x="426" y="717" type="line"/>
+      <point x="98" y="1229" type="line"/>
+      <point x="98" y="1434" type="line"/>
+      <point x="713" y="1434" type="line"/>
+      <point x="713" y="1229" type="line"/>
+      <point x="347" y="1229" type="line"/>
+      <point x="610" y="819" type="line"/>
+      <point x="610" y="614" type="line"/>
+      <point x="347" y="205" type="line"/>
+      <point x="713" y="205" type="line"/>
+      <point x="713" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-05-03 11:06:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

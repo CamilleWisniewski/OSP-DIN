@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chook" format="1">
+  <advance width="733"/>
+  <unicode hex="0188"/>
+  <outline>
+    <contour>
+      <point x="697" y="717" type="line"/>
+      <point x="492" y="717" type="line"/>
+      <point x="492" y="941" type="line" smooth="yes"/>
+      <point x="492" y="1026"/>
+      <point x="522" y="1098"/>
+      <point x="582" y="1158" type="curve" smooth="yes"/>
+      <point x="642" y="1218"/>
+      <point x="714" y="1248"/>
+      <point x="799" y="1248" type="curve"/>
+      <point x="799" y="1043" type="line"/>
+      <point x="770" y="1043"/>
+      <point x="746" y="1033"/>
+      <point x="727" y="1014" type="curve" smooth="yes"/>
+      <point x="707" y="994"/>
+      <point x="697" y="970"/>
+      <point x="697" y="941" type="curve" smooth="yes"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 16:11:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

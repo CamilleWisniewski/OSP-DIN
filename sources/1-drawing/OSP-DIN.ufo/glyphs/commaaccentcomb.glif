@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="288"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="43" y="-100" type="line"/>
+      <point x="248" y="-100" type="line"/>
+      <point x="245" y="-334" type="line"/>
+      <point x="40" y="-539" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 09:37:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

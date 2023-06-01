@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Istroke" format="1">
+  <advance width="413"/>
+  <unicode hex="0197"/>
+  <outline>
+    <component base="I"/>
+    <component base="strokeshortcomb" xOffset="-79" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 14:42:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

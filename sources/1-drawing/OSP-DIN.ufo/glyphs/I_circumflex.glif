@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="1">
+  <advance width="775"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="1434" type="line"/>
+      <point x="480" y="1434" type="line"/>
+    </contour>
+    <component base="asciicircum" xOffset="27" yOffset="314"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1414</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1632</integer>
+            <key>width</key>
+            <integer>221</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-73</integer>
+            <key>width</key>
+            <integer>567</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 10:48:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

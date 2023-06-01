@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dtail" format="1">
+  <advance width="786"/>
+  <unicode hex="0256"/>
+  <outline>
+    <contour>
+      <point x="700" y="224" type="line"/>
+      <point x="700" y="0" type="line" smooth="yes"/>
+      <point x="700" y="-29"/>
+      <point x="710" y="-53"/>
+      <point x="729" y="-73" type="curve" smooth="yes"/>
+      <point x="749" y="-92"/>
+      <point x="773" y="-102"/>
+      <point x="802" y="-102" type="curve"/>
+      <point x="802" y="-307" type="line"/>
+      <point x="717" y="-307"/>
+      <point x="645" y="-277"/>
+      <point x="585" y="-217" type="curve" smooth="yes"/>
+      <point x="525" y="-157"/>
+      <point x="495" y="-85"/>
+      <point x="495" y="0" type="curve" smooth="yes"/>
+      <point x="495" y="224" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 15:20:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

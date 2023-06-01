@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="811"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <component base="U"/>
+    <component base="horncomb" xOffset="723" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1220</integer>
+            <key>width</key>
+            <integer>410</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1414</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>98</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>508</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>713</integer>
+            <key>width</key>
+            <integer>159</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-17 09:35:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

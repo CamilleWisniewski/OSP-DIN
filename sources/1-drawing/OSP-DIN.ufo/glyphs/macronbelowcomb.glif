@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb" format="1">
+  <advance width="572"/>
+  <unicode hex="0331"/>
+  <outline>
+    <component base="macroncomb" yOffset="-1534"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 13:45:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

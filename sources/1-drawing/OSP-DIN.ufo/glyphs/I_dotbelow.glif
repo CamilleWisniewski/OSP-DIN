@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotbelow" format="1">
+  <advance width="413"/>
+  <unicode hex="1ECA"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotbelowcomb" xOffset="64" yOffset="14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 13:34:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

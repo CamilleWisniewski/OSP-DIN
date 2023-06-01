@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut" format="1">
+  <advance width="926"/>
+  <unicode hex="0171"/>
+  <outline>
+    <component base="u" xOffset="16"/>
+    <component base="hungarumlautcomb" xOffset="46" yOffset="-127"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hungarumlautcomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 12:35:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

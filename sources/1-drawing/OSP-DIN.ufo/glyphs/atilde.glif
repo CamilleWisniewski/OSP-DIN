@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="1">
+  <advance width="733"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <component base="tildecomb" xOffset="67" yOffset="-141"/>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>410</integer>
+            <key>width</key>
+            <integer>204</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>819</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1166</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1215</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>51</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>97</integer>
+            <key>width</key>
+            <integer>522</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>461</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 11:18:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+    </dict>
+  </lib>
+</glyph>

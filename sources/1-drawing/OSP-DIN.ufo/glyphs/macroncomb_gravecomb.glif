@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_gravecomb" format="1">
+  <advance width="572"/>
+  <outline>
+    <component base="macroncomb" yOffset="-20"/>
+    <component base="gravecomb" xOffset="-5" yOffset="260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 15:09:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

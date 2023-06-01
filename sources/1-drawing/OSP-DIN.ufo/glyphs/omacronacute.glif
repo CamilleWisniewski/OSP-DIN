@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacronacute" format="1">
+  <advance width="753"/>
+  <unicode hex="1E53"/>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb_acutecomb" xOffset="84" yOffset="-146"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-17 09:50:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

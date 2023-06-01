@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="1">
+  <advance width="749"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <component base="grave" xOffset="102" yOffset="-128"/>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>410</integer>
+            <key>width</key>
+            <integer>204</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>819</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1140</integer>
+            <key>width</key>
+            <integer>238</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>68</integer>
+            <key>width</key>
+            <integer>204</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>164</integer>
+            <key>width</key>
+            <integer>364</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>477</integer>
+            <key>width</key>
+            <integer>205</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-03-27 11:11:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

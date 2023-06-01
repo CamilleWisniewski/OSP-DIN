@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rstroke" format="1">
+  <advance width="788"/>
+  <unicode hex="024C"/>
+  <outline>
+    <component base="R"/>
+    <component base="strokeshortcomb" xOffset="-101" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-14 14:36:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>
